@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dali-yy/dali-publish-test"
+  },
+  "bin": {
+    "dali-publish-test": "./bin/index.js"
   }
 }
